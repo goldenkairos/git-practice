@@ -1,6 +1,7 @@
 def most_common_value(number_list):
     """ returns the most common element of the list
     """
+    # new comment
     frequency_index = {}
     max_frequency = -1
     most_common_value = None
